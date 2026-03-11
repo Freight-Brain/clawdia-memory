@@ -85,6 +85,12 @@ A custom AI ops platform Victor is building for Noxterra. The goal: smart dispat
 - Code: https://github.com/Freight-Brain/freight-brain (main branch)
 - Last deploy: 2026-03-09
 
+## Dashboard Login
+- URL: https://freight-brain-noxterra.fly.dev
+- Admin email: admin@noxterra.co
+- Admin password: Noxterra2026!
+- Auth: Supabase (change password anytime via Supabase dashboard)
+
 ## Open Items / Still Needed
 - [ ] A2P 10DLC registration on Twilio (required for production SMS)
 - [ ] Gmail integration (email management)
